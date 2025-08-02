@@ -1,0 +1,41 @@
+Project Name: Online Hospital Management System.
+Front-End: Jsp,Html,Css,JavaScript,Bootstrap.
+Back-End: Servlet,JDBC, Mysql Database.
+
+IDE Used: Netbeans 8.1v
+
+Modules:1) Patient Module.
+2) Doctor Module.
+3) Admin Module.
+4) Bill Module.
+5) Report Module.
+
+
+First see all task of Patient.
+
+- Patient should sign up first.
+- Patient can edit his/her profile.
+- Patient can book Appointment.
+- Patient can pay his/her instantly or after bill.
+- Patient can view his/her report.
+- patient can give Feedback also.
+
+Now see all the task of Doctor.
+
+- Doctor should sign up first.
+- Doctor can edit his/her profile.
+- Doctor can view his/her Appointments.
+- Doctor can cancel/Update Appointment also.
+- Doctor can give Feedback also.
+
+Now see all the task of Admin.
+
+- Admin should login first.
+- Admin can view all the Patients.
+- Admin can view all the Doctors.
+- Admin can view all the Feedbacks.
+- Admin can view all the Appointments.
+- Admin can view all the Paid bills list.
+- Admin can view all the Patient Reports.
+- Admin can view all the Contacts.
+- Admin can delete/Edit/Add the patient and Doctors also.
